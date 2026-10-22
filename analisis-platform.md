@@ -1,9 +1,5 @@
 # Analisis Perbandingan Platform Web, Desktop, dan Mobile
 
-## 1. Pendahuluan
-
-Dalam dunia pemrograman, ada beberapa platform yang bisa digunakan untuk membuat sebuah aplikasi, di antaranya Web, Desktop, dan Mobile. Ketiga platform tersebut memiliki cara kerja dan kegunaan yang berbeda. Perbedaannya bisa dilihat dari bahasa pemrograman yang digunakan, cara aplikasi dijalankan, cara membagikan aplikasi kepada pengguna, serta kelebihan dan kekurangannya. Oleh karena itu, penting bagi seorang mahasiswa yang belajar pemrograman untuk memahami perbedaan setiap platform agar bisa menentukan platform yang sesuai dengan kebutuhan.
-
 ## 2. Tabel Perbandingan Platform
 
 | Aspek           | Web                                                                                      | Desktop                                                                                     | Mobile                                                                                 |
